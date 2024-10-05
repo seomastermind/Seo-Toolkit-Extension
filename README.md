@@ -47,5 +47,6 @@ Extract and display all internal and external links on a page. You can see a sum
 ## How to Contribute:
 - Fork this repo and submit a pull request.
 
-## License:
-- MIT License
+## Author
+
+Developed by [❤️ Nafis Iqbal](https://nafisiqbal.com/)
